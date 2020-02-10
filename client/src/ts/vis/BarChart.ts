@@ -1,4 +1,4 @@
-// Developed by Roshan Lamichhan
+// Developed by Dan Lamichhan
 import { VComponent } from "./VisComponent" 
 import { D3Sel } from "../etc/Util";
 import { SimpleEventHandler } from "../etc/SimpleEventHandler";

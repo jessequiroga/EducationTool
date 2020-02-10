@@ -9,7 +9,7 @@ from flask_cors import CORS
 from backend import AVAILABLE_MODELS
 
 
-__author__ = 'Roshan Lamichhane'
+__author__ = 'Dan Makes'
 
 CONFIG_FILE_NAME = 'lmf.yml'
 projects = {}

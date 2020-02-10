@@ -1,4 +1,4 @@
-// Developed by Roshan Lamichhane
+// Developed by Dan Makes
 import * as d3 from 'd3';
 import "d3-selection-multi";
 import '../css/start.scss'

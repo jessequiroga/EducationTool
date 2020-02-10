@@ -1,4 +1,4 @@
-// Developed by Roshan Lamichhane
+// Developed by Dan Makes
 import {VComponent} from "./VisComponent";
 import {AnalyzedText} from "../api/GLTR_API";
 import {D3Sel, token_cleanup} from "../etc/Util";
